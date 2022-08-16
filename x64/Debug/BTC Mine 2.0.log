@@ -1,0 +1,3 @@
+﻿  BTC Mine 2.0.cpp
+D:\source\BTC Mine 2.0\BTC Mine 2.0.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BTC Mine 2.0.vcxproj -> D:\source\BTC Mine 2.0\x64\Debug\BTC Mine 2.0.exe
